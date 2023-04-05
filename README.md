@@ -45,7 +45,7 @@
 
 How to import your file into scratch.
 
-<details>After following the instuctions go to this link: www.mconverter.eu After going to there click on the upload button next find the mp4 that you have now and click on it and then press "open" then click on PNG, then wait. once it is done follow these instucrtions:</details>
+After following the instuctions go to this link: www.mconverter.eu After going to there click on the upload button next find the mp4 that you have now and click on it and then press "open" then click on PNG, then wait. once it is done follow these instucrtions:
 <details>
 <summary><strong>Windows Instructions</strong></summary>
 
