@@ -50,7 +50,7 @@ After following the instuctions go to this link: www.mconverter.eu After going t
 <summary><strong>Windows Instructions</strong></summary>
 
 3. Open the "File Explorer".
-4. Navigate to the folder where you saved the program's `.zip` file.
+4. Navigate to the folder where you saved the frames in the `.zip` file.
 5. Right-click on the `.zip` file and select "Extract All" from the context menu.
 6. Open the folder that was created when you extracted the files.
 7. Download the GitHub repository as a `.zip` file and save it to your computer.
@@ -60,7 +60,7 @@ After following the instuctions go to this link: www.mconverter.eu After going t
 11. Find the video you downloaded earlier and rename it from `.mp4` to `.wav`. Then, copy the renamed file.
 12. Go back to the extracted GitHub repository folder and delete the "513727eec2a08ffd184827d3f55ad596.wav" file. Then, paste the `.wav` file you copied earlier.
 13. Select all the files in the extracted folder and zip them up.
-14. Rename the zipped file to "Program.sb3".
+14. Rename the zipped file to "Video.sb3".
 15. Open Scratch, press on "Create new project" (login if you don't see it), then press "File" and click on "Load from your computer". Find the `.sb3` file you just created, select it, and click "Open". That's it!
 
 </details>
@@ -79,5 +79,5 @@ After following the instuctions go to this link: www.mconverter.eu After going t
 11. Find the video you downloaded earlier and rename it from `.mp4` to `.wav`. Then, copy the renamed file.
 12. Go back to the extracted GitHub repository folder and delete the "513727eec2a08ffd184827d3f55ad596.wav" file. Then, paste the `.wav` file you copied earlier.
 13. Select all the files in the extracted folder and zip them up.
-14. Rename the zipped file to "Program.sb3".
+14. Rename the zipped file to "Video.sb3".
 15. Open Scratch, press on "Create new project" (login if you don't see it), then press "File" and click on "Load from your computer". Find the `.sb3` file you just created, select it, and click "Open". That's it!
